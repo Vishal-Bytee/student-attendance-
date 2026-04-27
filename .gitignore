@@ -1,0 +1,18 @@
+# virtual environment
+attendance_env/
+
+student_dataset/
+trained_models/
+attendance_records/
+
+# python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# tensorflow/deepface cache
+.deepface/
+
+# os files
+.DS_Store
+Thumbs.db
