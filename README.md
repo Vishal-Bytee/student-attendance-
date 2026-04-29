@@ -1,7 +1,8 @@
-##Student Attendance System
+## Student Attendance System
+
 A face recognition based attendance system that automatically marks student attendance using your webcam, with real-time emotion detection for each student.
 
-#Features
+# Features
 
 Automatic face detection and recognition via webcam
 Real-time emotion detection for each student
@@ -51,10 +52,10 @@ source attendance_env/bin/activate
 3. Install Dependencies
 bashpip install -r requirements.txt
 
-##How to Run
+## How to Run
 bashpython attendance.py
 
-#Menu Options
+# Menu Options
 1. Add new student (collect images)
 2. Train the recognizer
 3. Start attendance
@@ -102,16 +103,16 @@ attendance-system/
 CSV Output Format
 NameStatusEmotionTimeJohnPresentHappy2025-04-29 09:35:22JaneAbsentN/A2025-04-29 09:35:22
 
-#Emotions Detected
+# Emotions Detected
 Emotion,Happy,Sad,Angry,Surprised,Fearful,Disgusted,Neutral
 
-#Limitations
+# Limitations
 
--Attendance only works in the 9:30–10:00 AM window
--Works best in good lighting conditions
--Template matching may confuse students who look similar
--Emotion detection is less accurate without DeepFace
--One face per frame gives the most accurate results
+- Attendance only works in the 9:30–10:00 AM window
+- Works best in good lighting conditions
+- Template matching may confuse students who look similar
+- Emotion detection is less accurate without DeepFace
+- One face per frame gives the most accurate results
 
 
 Future Improvements
