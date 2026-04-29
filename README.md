@@ -115,10 +115,10 @@ Emotion,Happy,Sad,Angry,Surprised,Fearful,Disgusted,Neutral
 - One face per frame gives the most accurate results
 
 
-Future Improvements
+# Future Improvements
 
-GUI interface
-Multiple time window support
-Email report after session
-Anti-spoofing (photo attack prevention)
-Database integration instead of CSV
+- GUI interface
+- Multiple time window support
+- Email report after session
+- Anti-spoofing (photo attack prevention)
+- Database integration instead of CSV
