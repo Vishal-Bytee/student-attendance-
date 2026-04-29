@@ -38,7 +38,7 @@ OS: Windows 10/11, Linux, macOS
 
 Installation
 1. Clone Repository
-bashgit clone https://github.com/Vishal-Bytee/student-attendance.git
+bashgit clone https://github.com/Vishal-Bytee/student-attendance-.git
 cd attendance-system
 2. Create Virtual Environment
 bashpython -m venv attendance_env
